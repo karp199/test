@@ -1,0 +1,4 @@
+nazwa bazy danych w phpmyadmin: karty_graficzne
+metoda porównywania napisów: utf8_general_ci
+użytkownik: root
+bez hasła
